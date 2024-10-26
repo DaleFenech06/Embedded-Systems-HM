@@ -1,2 +1,2 @@
 # Embedded-Systems-HM
-This is the Embedded Systems Home Assignment
+This is the Embedded Systems MCAST Home Assignment
